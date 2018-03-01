@@ -1,2 +1,2 @@
 # Basic-Weatherbot
-Demo weather bot using on rules based code (regular expressions)
+Demo weather bot using rules based code (regular expressions)
